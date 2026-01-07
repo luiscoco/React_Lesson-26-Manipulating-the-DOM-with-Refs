@@ -1,4 +1,4 @@
-# React Refs Demo (Vite + React 19)
+# React 19.2 - Lesson 26 - Manipulating the DOM with Refs
 
 A minimal, ready-to-run project that demonstrates manipulating the DOM with refs:
 - Focusing inputs with `useRef`
